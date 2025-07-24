@@ -1,0 +1,43 @@
+Book Review System
+This project is a Book Review System that allows users to browse books, post reviews, and rate them. I created this project to make it easier for readers to share their thoughts on books and discover recommendations from others.
+
+Why This Project is Useful
+Book lovers often want a simple platform to share opinions and find reliable reviews before choosing their next read. This system provides:
+
+A clean interface for adding and managing book reviews
+
+Ratings that help users quickly gauge book quality
+
+A centralized place for readers to discover new books
+
+How I Built It
+I developed this project from scratch, focusing on simplicity and usability:
+
+Frontend: Designed an intuitive interface using modern web technologies
+
+Backend & Database: Set up logic for handling reviews, ratings, and user data
+
+Responsive Design: Ensured the platform works on both desktop and mobile devices
+
+Core Features: Implemented review submission, editing, and rating functionality
+
+Key Features
+Create, edit, and delete book reviews
+
+Rate books and view average community ratings
+
+Browse all reviews or search for specific books
+
+Responsive layout for seamless user experience
+
+Installation
+Clone this repository:
+
+git clone https://github.com/Aadhi07-cloud/Book-review-sysytem.git
+cd Book-review-sysytem
+Install dependencies:
+npm install
+Run the project locally:
+npm start
+Open your browser and visit:
+http://localhost:3000
